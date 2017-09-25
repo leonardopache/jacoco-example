@@ -4,7 +4,7 @@ _JaCoCo is a free code coverage library for Java, which has been created by the 
 
 Image of JaCoCo report:
 
-![Image of JaCoCo report](img-jacoco-result.png)
+![Image of JaCoCo report](img-jacoco-result.jpg)
 
 [JaCoCo Project](http://www.jacoco.org/jacoco/)
 
